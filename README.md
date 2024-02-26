@@ -1,1 +1,1 @@
-# chess-demo-csc-unity
+This is a simple example of how to integrate and leverage Cavrnus' Spatial Connector for Unity, which connects to the Cavrnus platform either in the cloud or onpremises. This a  single-player Chess scene that was Cavrnized, the scene consists of some chess pieces and a table. Once this project is fully Cavrnized the game can be played with many people at the same time, with voice/video streaming, data synchronization and low latency multi-user copresence via any Avatar. 
