@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.cavrnus.csc": {
-      "version": "https://github.com/Cavrnus-Inc/cavrnus-spatial-connector-unity.git",
+      "version": "2.7.0",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {},
-      "hash": "f5e0532526e24800e8d83e621e19fabd0e5c845b"
+      "url": "https://packages.cavrn.us"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",

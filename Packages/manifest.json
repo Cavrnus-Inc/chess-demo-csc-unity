@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.cavrnus.csc": "https://github.com/Cavrnus-Inc/cavrnus-spatial-connector-unity.git",
+    "com.cavrnus.csc": "2.7.0",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.4.2",
@@ -50,5 +50,14 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "Cavrnus Registry",
+      "url": "https://packages.cavrn.us",
+      "scopes": [
+        "com.cavrnus"
+      ]
+    }
+  ]
 }
