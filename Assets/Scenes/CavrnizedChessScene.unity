@@ -6203,7 +6203,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3843911914220772793, guid: bc329ed98d4c9a44a967d563bb09778d, type: 3}
       propertyPath: MyServer
-      value: av.dev.cavrn.us
+      value: cav.dev.cavrn.us
       objectReference: {fileID: 0}
     - target: {fileID: 3843911914220772793, guid: bc329ed98d4c9a44a967d563bb09778d, type: 3}
       propertyPath: UiCanvas
@@ -6223,7 +6223,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3843911914220772793, guid: bc329ed98d4c9a44a967d563bb09778d, type: 3}
       propertyPath: AutomaticSpaceJoinId
-      value: 
+      value: Sample-Space
       objectReference: {fileID: 0}
     - target: {fileID: 3843911914220772793, guid: bc329ed98d4c9a44a967d563bb09778d, type: 3}
       propertyPath: SpaceMenus.Array.size
