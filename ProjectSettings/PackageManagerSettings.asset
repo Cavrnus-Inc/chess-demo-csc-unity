@@ -26,11 +26,19 @@ MonoBehaviour:
     m_IsDefault: 1
     m_Capabilities: 7
     m_ConfigSource: 0
-  m_UserSelectedRegistryName: 
+  - m_Id: scoped:project:Cavrnus Registry
+    m_Name: Cavrnus Registry
+    m_Url: https://packages.cavrn.us
+    m_Scopes:
+    - com.cavrnus
+    m_IsDefault: 0
+    m_Capabilities: 0
+    m_ConfigSource: 4
+  m_UserSelectedRegistryName: Cavrnus Registry
   m_UserAddingNewScopedRegistry: 0
   m_RegistryInfoDraft:
     m_Modified: 0
     m_ErrorMessage: 
-    m_UserModificationsInstanceId: -896
-    m_OriginalInstanceId: -898
+    m_UserModificationsInstanceId: -858
+    m_OriginalInstanceId: -860
   m_LoadAssets: 0
