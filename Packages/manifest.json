@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "com.cavrnus.chat": "1.1.1",
-    "com.cavrnus.csc": "2.12.4",
+    "com.cavrnus.csc": "2.15.1",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.4.2",
